@@ -1,9 +1,12 @@
 //Lab01 Java file
 // Sample Java file
+
 void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
+
+  // Edit made by John Pritchard_240082529 
 
 
   //Last line print('Good bye')
